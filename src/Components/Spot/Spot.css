@@ -1,0 +1,11 @@
+.spot-container {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.card-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    border-right: 1px solid lightgray;
+    margin-right: 5px;
+    margin-left: 20px;
+}

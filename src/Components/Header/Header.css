@@ -1,0 +1,14 @@
+.header-text {
+    color: white;
+    text-align: center;
+}
+.header-big-text{
+    text-align: center; 
+    color: rgb(56, 160, 173); 
+} 
+.header-body {
+    background-color: rgb(44, 49, 66);
+    margin-top: 0;
+    padding: 30px;
+    margin-bottom: 30px;
+}

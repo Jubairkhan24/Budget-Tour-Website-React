@@ -1,0 +1,83 @@
+[
+    {
+        "id": 142545435,
+        "name": "Bandarban",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Bandarban%2C_Bangladesh.png",
+        "division": "Chattogram",
+        "cost": 3000,
+        "duration": "3 days",
+        "type": "forest"
+    },
+    {
+        "id": 275645,
+        "name": "Sylhet",
+        "img": "https://media-eng.dhakatribune.com/uploads/2019/02/sf-feb24-19-pg8-1-1551015313634.jpg",
+        "division": "Sylhet",
+        "cost": 3500,
+        "duration": "4 days",
+        "type": "Tea Garden"
+    },
+    {
+        "id": 34235,
+        "name": "Coxs Bazar",
+        "img": "https://images.unsplash.com/photo-1587222318667-31212ce2828d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y294cyUyMGJhemFyfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
+        "division": "Chattogram",
+        "cost": 3000,
+        "duration": "2 days",
+        "type": "Sea"
+    },
+    {
+        "id": 42435,
+        "name": "Rangamati",
+        "img": "https://cdn.britannica.com/80/137580-050-9C6A745A/Hanging-Bridge-Kaptai-Lake-Rangamati-Bangl.jpg",
+        "division": "Chattogram",
+        "cost": 5000,
+        "duration": "4 days",
+        "type": "forest"
+    },
+    {
+        "id": 532435,
+        "name": "Sunamganj",
+        "img": "https://media-cdn.tripadvisor.com/media/photo-c/2560x500/0d/67/6b/ba/niladri-at-taker-ghat.jpg",
+        "division": "Sylhet",
+        "cost": 7000,
+        "duration": "3 days",
+        "type": "Haor"
+    },
+    {
+        "id": 6243546,
+        "name": "Tanguar Haor",
+        "img": "https://thefinancialexpress.com.bd/uploads/1630034469.jpg",
+        "division": "Sylhet",
+        "cost": 5500,
+        "duration": "2 days",
+        "type": "Boat Tour"
+    },
+    {
+        "id": 743546,
+        "name": "Jaflong",
+        "img": "https://i.pinimg.com/originals/c5/12/3f/c5123f60ac5ebbf8f012793eb84351fd.jpg",
+        "division": "Sylhet",
+        "cost": 1000,
+        "duration": "1 days",
+        "type": "river side"
+    },
+    {
+        "id": 82345,
+        "name": "Ratargul",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwVfsLCfmQaqtP0FbovfZ7MtKYK2AIHXH3Sg&usqp=CAU",
+        "division": "Sylhet",
+        "cost": 1500,
+        "duration": "1 days",
+        "type": "Boat Tour"
+    },
+    {
+        "id": 94565,
+        "name": "Saint Martins Island",
+        "img": "https://thefinancialexpress.com.bd/uploads/1609510631.jpg",
+        "division": "Chattogram",
+        "cost": 5500,
+        "duration": "3 days",
+        "type": "Island"
+    }
+]

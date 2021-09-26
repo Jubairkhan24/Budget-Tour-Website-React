@@ -10,10 +10,11 @@ const Cart = (props) => {
         <div className="cart-box">
             <div className="text-styles">
                 <h3 className="heading-style">Choosen Places</h3>
-                <h5>Places Booking: {props.cart.length}</h5>
+                <h5>Places Booking: {props.cart.length} {props.id}</h5>
                 <h2>{props.cart.name}</h2>
                 {
-                    cart.map(places => <ul > <li className="text-style">{places.name} </li> </ul>)
+                    cart.map(places => <ul key={places.id}
+                    > <li className="text-style">{places.name} </li> </ul>)
                 }
                 <br />
                 <p>Total Cost: {total} Bdt</p>

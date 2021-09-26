@@ -13,7 +13,7 @@ const Cart = (props) => {
                 <h5>Places Booking: {props.cart.length}</h5>
                 <h2>{props.cart.name}</h2>
                 {
-                    cart.map(places => <ul > <li className="text-style"> {places.name} </li> </ul>)
+                    cart.map(places => <ul > <li className="text-style">{places.name} </li> </ul>)
                 }
                 <br />
                 <p>Total Cost: {total} Bdt</p>

@@ -1,6 +1,6 @@
 # Budget Traveler Dot Com
 
-Project link:
+Project link: https://jolly-jones-baf3a0.netlify.app/
 
 * this is a travel company website. A very clean and minimal ui based website for professional business
 

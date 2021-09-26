@@ -2,7 +2,11 @@
 
 Project link:
 
-* this is a travel company website. 
+* this is a travel company website. A very clean and minimal ui based website for professional business
+
+* It has the most beautiful places in Bangladesh. People who are interested can make their travel plan using this website. Also they can get a tour with a reasonable price.
+
+* It's a budget traveling website so people can visit places at a low price range. Also the website can make travel plans on multiple places at a time. 
 
 ## Available Scripts
 

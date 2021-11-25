@@ -1,6 +1,8 @@
 import React from 'react';
 import './Cart.css';
 const Cart = (props) => {
+    const processed = Math.random(props.id);
+    // console.log(processed)
     const { cart } = props;
     let total = 0;
     for (const spot of cart) {
@@ -13,7 +15,8 @@ const Cart = (props) => {
                 <h5>Places Booking: {props.cart.length} {props.id}</h5>
                 <h2>{props.cart.name}</h2>
                 {
-                    cart.map(places => <ul key={places.id}
+                    cart.map(places => <ul key={places.processed}
+
                     > <li className="text-style">{places.name} </li> </ul>)
                 }
                 <br />

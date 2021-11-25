@@ -6,7 +6,6 @@ import Spot from './Components/Spot/Spot';
 function App() {
   return (
     <div className="App">
-      {/* <h2>this is editable comment</h2> */}
       <Header></Header>
       <Spot></Spot>
     </div>
